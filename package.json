@@ -1,4 +1,5 @@
-{ "homepage": "https://shashi288.github.io/DailyScope",
+{ 
+  "homepage": "https://shashi288.github.io/DailyScope",
   "name": "newsapp",
   "version": "0.1.0",
   "private": true,
