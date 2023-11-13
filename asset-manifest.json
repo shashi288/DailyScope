@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DailyScope/static/css/main.dc4d6ff2.css",
+    "main.js": "/DailyScope/static/js/main.13bb0bc3.js",
+    "static/js/787.4cbb8072.chunk.js": "/DailyScope/static/js/787.4cbb8072.chunk.js",
+    "index.html": "/DailyScope/index.html",
+    "main.dc4d6ff2.css.map": "/DailyScope/static/css/main.dc4d6ff2.css.map",
+    "main.13bb0bc3.js.map": "/DailyScope/static/js/main.13bb0bc3.js.map",
+    "787.4cbb8072.chunk.js.map": "/DailyScope/static/js/787.4cbb8072.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.13bb0bc3.js"
+  ]
+}
